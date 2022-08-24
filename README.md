@@ -21,9 +21,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-  <img align="center" alt="GIT" height="30" width="30" src="https://toppng.com/uploads/preview/js-club-new-balance-png-logo-node-js-logo-white-11563570785xvaemwdb1k.png">
-  <img align="center" alt="GIT" height="30" width="36" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
-  <img align="center" alt="GIT" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
+<img align="center" alt="NODEJS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+  <img align="center" alt="VS" height="30" width="36" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
+  <img align="center" alt="BOOTSTRAP" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
 
 ---
 
