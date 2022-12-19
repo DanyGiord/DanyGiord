@@ -3,7 +3,7 @@
 <div align="center">
   <img align="right" alt="GIF" height="140px" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif"/>
   <div align="left" style="display: inline_block">
-    <li> 💚 I'm studying Web Development at <a href="https://code.edu.rs/">CODE by Comtrade</a>.</li>
+    <li> 💚 I finished Web Development at <a href="https://code.edu.rs/">CODE by Comtrade</a>.</li>
     <li> 💎 Level: Student.
     <li> 🏆 Learning Front-end.</li>
     <li> 💪🏼 My future goals: to continue in constant study to keep up with the technologies.
