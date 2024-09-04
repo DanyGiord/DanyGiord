@@ -20,10 +20,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="NODEJS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-  <img align="center" alt="VS" height="30" width="36" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png">
   <img align="center" alt="BOOTSTRAP" height="30" width="36" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
-  <img align="center" alt="BOOTSTRAP" height="30" width="36" src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png">
-  <img align="center" alt="BOOTSTRAP" height="30" width="36" src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo.png">
+  <img align="center" alt="ASTRO" height="30" width="36" src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png">
+  <img align="center" alt="NEXT.JS" height="30" width="36" src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo.png">
+  <img align="center" alt="MongoDB" height="30" width="36" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
 
 ---
 
